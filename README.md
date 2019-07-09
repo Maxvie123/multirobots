@@ -1,4 +1,4 @@
 # multirobots
-Multiple Freight robots tes.
+Multiple Freight robots test.
 
-Need to add fetch robot dependency manually
+Need to add fetch robot dependency manually.
